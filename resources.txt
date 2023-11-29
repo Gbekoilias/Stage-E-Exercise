@@ -1,0 +1,7 @@
+https://datacurationnetwork.org/resources/workflows/
+
+#Recommended for further research on Data Curation
+- https://www.alation.com/blog/what-is-data-curation/ https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/bult.2014.1720400416 
+- https://www.artiba.org/blog/the-essentials-of-machine-learning-data-curation 
+- https://www.oclc.org/research/areas/research-collections/datacuration.html  
+- https://www.dataversity.net/data-curation-101/  
